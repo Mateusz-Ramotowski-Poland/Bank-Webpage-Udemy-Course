@@ -1,5 +1,5 @@
 # Bank webpage
-Live demo: [_here_](https://mateusz-ramotowski-poland.github.io/Bank-webpage/).
+Live demo: [_here_](https://mateusz-ramotowski-poland.github.io/Bank-Webpage-Udemy-Course/).
 
 ## Table of Contents
 * [General Info](#general-information)
