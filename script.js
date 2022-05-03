@@ -270,7 +270,7 @@ btnLeft.addEventListener('click', prevSlide);
 
 document.addEventListener('keydown', function(e) {
   if(e.key === "ArrowLeft") prevSlide();
-  e.key === "ArrowRight" && nextSlide();
+  e.key === "ArrowRight" && nextSlide(); // here is used short circuiting
 })
 
 dotContainer.addEventListener('click', function (e) {
@@ -283,3 +283,6 @@ dotContainer.addEventListener('click', function (e) {
 
 };
 slider();
+
+
+
